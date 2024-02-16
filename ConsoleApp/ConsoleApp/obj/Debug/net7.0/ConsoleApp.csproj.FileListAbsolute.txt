@@ -1,0 +1,15 @@
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/raajithasai/Projects/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
